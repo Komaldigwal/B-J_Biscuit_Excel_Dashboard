@@ -55,5 +55,6 @@ What’s the busiest purchase day of the week?
 
  ## 📊 Dashboard View
 Here's a screenshot of the interactive Excel dashboard:
-![B J Biscuit Dashboard](https://user-images.githubusercontent.com/12345678/your-image-name.png)
+![B J Biscuit Dashboard ss](https://github.com/user-attachments/assets/e9aac1a2-ec26-41a1-9f3e-5a168852dd25)
+
 
